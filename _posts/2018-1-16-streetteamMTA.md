@@ -21,4 +21,5 @@ Additionally, we provide action items to enable later analysis of the strength o
 Personally, I believe these last statements are a key to a complete solution for the client, WTWY. Note that an analysis of the strength of our recommendation was not mentioned by the client, WTWY. However, in a real life scenario, I view it as my professional responsibility to point out to others the options they have in achieving their data-driven objectives and ways to maximize the robustness of solutions. I enjoy using the knowledge I have to not only create insight but to empower others. Here, I view this scenario as using my knowledge to promote client empowerment.
 
 Until next time,
+
 Christine
