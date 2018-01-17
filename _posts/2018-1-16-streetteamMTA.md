@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Project 1 - Street Team Placement Strategy for the WTWY Annual Gala
+title: Street Team Placement Strategy for the WTWY Annual Gala
 ---
 
 For the first project at Metis data science bootcamp, students are given a scenario in which a non-profit organization, Women Tech Women Yes (WTWY), seeks to increase participation to their annual gala as well as increase organizational financial support. To achieve this end, WTWY hires a group of data scientists, the students, to optimize the placement of the street team in MTA subway stations which will collect email signatures in exchange for tickets to the gala.
@@ -18,7 +18,7 @@ Our top 5 recommended subway stations for the WTWY street team are:
 
 Additionally, we provide action items to enable later analysis of the strength of our recommendation. Suggested action items include the collection of subway station names to quantify the effectiveness of street team out reach and survey respondees regarding tech company employment.
 
-Personally, I believe these last statements are a key to a complete solution for the client, WTWY. Note that an analysis of the strength of our recommendation was not mentioned by the client, WTWY. However, in a real life scenario, I view it as my professional responsibility to point out to others the options they have in achieving their data-driven objectives and ways to maximize the robustness of solutions. I enjoy using the knowledge I have to not only create insight but to empower others. Here, I view this scenario as using my knowledge to promote client empowerment.
+Personally, I believe these last statements are a key to a complete solution for the client, WTWY. Note that an analysis of the strength of our recommendation was not mentioned by the client, WTWY. However, in a real life scenario, I view it as my professional responsibility to point out to others the options they have in achieving their data-driven objectives and ways to maximize the robustness of solutions.
 
 Until next time,
 
