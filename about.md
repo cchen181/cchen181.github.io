@@ -6,7 +6,7 @@ permalink: /about/
 
 I am a data scientist.
 
-What’s my favorite part about being a data scientist?
+What’s my favorite part about being a data scientist?  
 Creative problem solving. I enjoy figuring out how to approach a problem and identifying the strengths and limitations of a given approach.
 
 While I enjoy the problem solving process, I know how important it is to share my work. I don’t believe my work is complete until I convey my findings to others in an effective manner. To achieve this, I believe in the pairing of good visualizations with simple explanations. 
