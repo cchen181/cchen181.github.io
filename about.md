@@ -13,7 +13,7 @@ While I enjoy the problem solving process, I know how important it is to share m
 
 Before data science, I spent several years honing my analysis chops in the academic research realm. There, I solved open-ended problems by mining data and searching for the signal in the noise. How did I do that? With a lot of programming on large complex datasets. And how did I do that? With a lot of tenacity, resourcefulness, curiosity, and learning on the fly. 
 
-I’m always excited to find out where those traits lead me next.    
+I’m always excited to find out where those traits lead me next.<br><br>    
 
 When I'm not working with data, I enjoy sports, traveling, eclectic cuisine, and the great outdoors.
 
