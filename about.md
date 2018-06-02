@@ -15,8 +15,8 @@ Before data science, I spent several years honing my analysis chops in the acade
 
 I’m always excited to find out where those traits lead me next.
 
-### More Information
-When I'm not looking at data, I enjoy sports, traveling, trying out different types of cuisine, and being out in the great outdoors.
+
+When I'm not working with data, I enjoy sports, traveling, eclectic cuisine, and the great outdoors.
 
 ### Contact me
 
