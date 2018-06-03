@@ -6,6 +6,5 @@ permalink: /resume/
 
 
 
-### Download
-
-[cchen181@gmail.com](mailto:cchen181@gmail.com)
+### [Download] (../
+#[I'm a relative reference to a repository file](../blob/master/LICENSE)
