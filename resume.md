@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/ 
 ---
 
-[Download as PDF][1]<br>
+[As a PDF][1]<br>
 
 [1]:{{ site.url }}/images/ChristineChen_ResumeWeb.pdf 
 
