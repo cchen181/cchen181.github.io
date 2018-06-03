@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Resume
-permalink: /resume/ [Download]
+title: Resume [Download]
+permalink: /resume/ 
 ---
 
 <iframe src="https://resume.creddle.io/embed/2b7hcsenf7"
