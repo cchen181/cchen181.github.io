@@ -6,6 +6,6 @@ permalink: /resume/
 
 
 
-### Secure a hard copy
+### Download
 
 [cchen181@gmail.com](mailto:cchen181@gmail.com)
